@@ -10,6 +10,9 @@
 
 *I want to learn a lot of other programming and I am trying to learn programming.✈️*
 
+**سلام من ابوالفضل هستم👋**
+**در رشته برنامه نویسی و درپروژه های سمپ و غیره فعالیت دارم**
+**میخام خیلی از برنامه نویسی دیگر هم یاد بگیرم و در تلاشم برای یادگیری برنامه نویسی.**
 
 # **Social network🌐**
 **Telegram:** [Chanel](https://t.me/DevSampX)
