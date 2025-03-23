@@ -22,18 +22,7 @@
 > - Rubika: [Chanel](https://rubika.ir/Devsampx)
 
 
-<!--
-**AboolfazlShokry/AboolfazlShokry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Page Rubika:https://rubika.ir/Devsampx
-
-Page Telegram:https://t.me/DevSampX
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AboolfazlShokry&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AboolfazlShokry&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
+</p>
