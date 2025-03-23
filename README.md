@@ -11,10 +11,11 @@
 *I want to learn a lot of other programming and I am trying to learn programming.✈️*
 
 
-# **Telegram**
-**Chanel:** [Dev Samp X](https://t.me/DevSampX)
+# **Social network🌐**
+**Telegram:** [Chanel](https://t.me/DevSampX)
 
-**[Pv](t.me/aboolfazl_shokry)** 
+**Rubika:**  [Chanel](https://rubika.ir/Devsampx)
+
 
 <!--
 **AboolfazlShokry/AboolfazlShokry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
