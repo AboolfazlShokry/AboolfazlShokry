@@ -17,9 +17,9 @@
 **میخام خیلی از برنامه نویسی دیگر هم یاد بگیرم و در تلاشم برای یادگیری برنامه نویسی✈️.**
 
 # **Social network🌐**
-**Telegram:** [Chanel](https://t.me/DevSampX)
+- Telegram: [Chanel](https://t.me/DevSampX)
 
-**Rubika:**  [Chanel](https://rubika.ir/Devsampx)
+- Rubika: [Chanel](https://rubika.ir/Devsampx)
 
 
 <!--
