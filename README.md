@@ -28,7 +28,7 @@
 # **Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AboolfazlShokry&show_icons=true&theme=monokai" alt="AboolfazlShokry's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AboolfazlShokry&theme=monokai" alt="AboolfazlShokry's Github Steak" /><br>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AboolfazlShokry&theme=monokai" alt="AboolfazlShokry's Github Steak" /><br> -->
 </p>
 
 # **Connection🌐**
